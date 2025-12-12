@@ -45,6 +45,7 @@ FaceForge/
 │── requirements.txt
 │── README.md
 
+
 🔍 How It Works
 1️⃣ Dataset Input
 
@@ -90,8 +91,8 @@ gen.generate(label=5, num_images=20)
 
 (Insert your own images after generating)
 
-![Sample Image](outputs/generated_samples/sample1.png)
-![Sample Image](outputs/generated_samples/sample2.png)
+![Sample Image](sample1.png)
+![Sample Image](sample2.png)
 
 🧪 Use Cases
 🔹 1. ML Training Without Real Data
