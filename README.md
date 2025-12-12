@@ -89,8 +89,6 @@ gen.generate(label=5, num_images=20)
 
 📊 Sample Results
 
-(Insert your own images after generating)
-
 ![Sample Image](sample1.png)
 ![Sample Image](sample2.png)
 
