@@ -30,20 +30,7 @@ Google Colab
 Generative AI (cGAN architecture)
 
 🏗️ Project Structure
-FaceForge/
-│── data/                     # Real dataset (MNIST / Faces / Custom)
-│── cgan_model/
-│   ├── generator.py          # Generator architecture
-│   ├── discriminator.py      # Discriminator architecture
-│   ├── train.py              # Training loop & loss calculation
-│── outputs/
-│   ├── generated_samples/    # Synthetic images produced by the model
-│   ├── training_plots/       # Generator/Discriminator loss graphs
-│── notebook/
-│   ├── FaceForge_Training.ipynb
-│── main.py                   # Script to generate samples after training
-│── requirements.txt
-│── README.md
+![Sample Image](project_structure.png)
 
 
 🔍 How It Works
