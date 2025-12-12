@@ -121,6 +121,6 @@ GAN training
 Generative modeling
 Synthetic data ethics
 
-👤 Team
-Sure Bhavya Varshitha
+👤 Team menbers:-
+Sure Bhavya Varshitha ,
 Cherukuri Asha Sri Valli
