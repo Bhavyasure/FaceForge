@@ -30,12 +30,13 @@ Google Colab
 Generative AI (cGAN architecture)
 
 🏗️ Project Structure
+
 ![Sample Image](project_structure.png)
 
 
 🔍 How It Works
-1️⃣ Dataset Input
 
+1️⃣ Dataset Input
 FaceForge accepts any labeled dataset (e.g., MNIST, face datasets, custom images).
 
 2️⃣ Conditional GAN Architecture
